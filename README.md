@@ -1,3 +1,5 @@
+orig: https://github.com/xstos/PolylineSmoothCSharp
+
 # PolylineSmoothCSharp
 [CodeProject](https://www.codeproject.com/) conversion of [2D Polyline Vertex Smoothing](https://www.codeproject.com/Articles/1093960/D-Polyline-Vertex-Smoothing) to CSharp
 
